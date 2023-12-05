@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#carouselExampleCaptions{
+    height: 92vh;  
+}
+#slide-one{
+    background-image: url(images/branding-1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 92vh;
+    width: 100%;
+}
+#slide-two{
+    background-image: url(images/branding-2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 92vh;
+    width: 100%;
+}
+#slide-three{
+    background-image: url(images/branding-3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 92vh;
+    width: 100%;
+}
